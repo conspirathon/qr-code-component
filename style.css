@@ -11,12 +11,12 @@ body .container {
   margin-top: 100px;
 }
 
-h2 {
-  color: hsl(218, 44%, 22%);
+h1 {
   font-family: "outfit";
-  font-weight: 700;
-  margin-top: 50px;
+  padding: 0px 23px;
   text-align: center;
+  font-size: 1.7rem;
+  color: hsl(218, 44%, 22%);
 }
 
 p {
